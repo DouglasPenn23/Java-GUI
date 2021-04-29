@@ -5,6 +5,11 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
+
+// A GUI is a graphical user interface
+// It is a system of interactive visual components for computer software
+// A GUI displays objects that convey info & represent actions that can be taken by the user.
+// The object may change color, size or visibility when interacted with.
 public class GUI implements ActionListener {
 
     private int count = 0;
